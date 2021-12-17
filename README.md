@@ -10,7 +10,9 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Installation
 In order to check out the page refer to: https://daypolk19.github.io/Horiseon/  
 ## Usage
-The website is fairly simple. W
+
+When you click on one of the following items: ![click](assets/images/Screenshot.png) you will be rerouted to the bottom of the page where the information to the item you selected is at: ![clicl](assets/images/capture.png) 
+
 Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
     ```md
