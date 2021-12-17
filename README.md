@@ -1,16 +1,17 @@
 # Code Refactor Starter Code
+
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - My motivation to building this project was to educate myself and good graph at the semantics elements
 - I built this project to challenge what I have learned so far about HTML and CSS. This is the first project that I have completed on my own.
 - This code makes it so those with disabilities can have accessiblility on the web page.
-- What did you learn?
+
 
 
 ## Installation
 In order to check out the page refer to: https://daypolk19.github.io/Horiseon/  
 ## Usage
-When you click on one of the following items: ![click](assets/images/Screenshot.png) you will be rerouted to the bottom of the page where the information to the item you selected is at: ![clicl](assets/images/capture.png) 
+When you click on one of the following items: ![click](assets/images/Screenshot.png) you will be rerouted to the bottom of the page where the information to the item you selected is at: ![click](assets/images/capture.png) 
 
 If picture doesn't load or a person with accessibility need visits the site, there are descriptions to all photos: ![click](assets/images/benefit.png)
 
